@@ -2145,6 +2145,9 @@
 {"label": "SKILL", "pattern": [{"LOWER": "sql"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "tableau"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "power"}, {"LOWER": "bi"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "hugging"}, {"LOWER": "face"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "kaggle"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "excel"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "tableau "}]}
 {"label": "SKILL", "pattern": [{"LOWER": "cybersecurity"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "blockchain"}]}
