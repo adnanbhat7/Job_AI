@@ -2145,7 +2145,6 @@
 {"label": "SKILL", "pattern": [{"LOWER": "sql"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "tableau"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "power"}, {"LOWER": "bi"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "tableau "}]}
 {"label": "SKILL", "pattern": [{"LOWER": "cybersecurity"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "blockchain"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "ui"}, {"LOWER": "ux"}, {"LOWER": "design"}]}
