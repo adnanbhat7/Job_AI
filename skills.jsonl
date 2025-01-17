@@ -1,4 +1,4 @@
-{"label": "SKILL", "pattern": [{"TEXT": ".NET"}]}
+{"label": "SKILL", "pattern": [{"TEXT": ".NET"}]}  
 {"label": "SKILL", "pattern": [{"LOWER": ""}, {"LOWER": "net"}]}
 {"label": "SKILL", "pattern": [{"TEXT": "3D"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "3d"}, {"LOWER": "reconstruction"}]}
@@ -114,19 +114,13 @@
 {"label": "SKILL", "pattern": [{"LOWER": "application"}, {"LOWER": "utilities"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "appveyor"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "arangodb"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "arbol"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "arboriculture"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "arborist"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "arch"}, {"LOWER": "linux"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "architectural"}, {"LOWER": "engineering"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "arduino"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "art"}, {"LOWER": "&"}, {"LOWER": "architecture"}, {"LOWER": "thesaurus"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "ai"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "artificial"}, {"LOWER": "intelligence"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "artificial"}, {"LOWER": "neural"}, {"LOWER": "network"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "asana"}]}
-{"label": "SKILL", "pattern": [{"TEXT": "ASP.NET"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "asp"}, {"LOWER": "net"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "aspect-oriented"}, {"LOWER": "programming"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "aspect"}, {"LOWER": "oriented programming"}]}
 {"label": "SKILL", "pattern": [{"TEXT": "ASP.NET"}]}
@@ -151,7 +145,6 @@
 {"label": "SKILL", "pattern": [{"LOWER": "automotive"}, {"LOWER": "engineering"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "autonomic"}, {"LOWER": "computing"}]}
 {"label": "SKILL", "pattern": [{"TEXT": "AVA"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "awesome"}, {"LOWER": "lists"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "amazon"}, {"LOWER": "web"}, {"LOWER": "services"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "aws"}, {"LOWER": "cloudformation"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "aws"}, {"LOWER": "codebuild"}]}
@@ -205,7 +198,6 @@
 {"label": "SKILL", "pattern": [{"LOWER": "biomedical"}, {"LOWER": "engineering"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "biometrics"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "bitbucket"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "bitcoin"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "bitrise"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "blind"}, {"LOWER": "signal"}, {"LOWER": "separation"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "blockchain"}]}
@@ -216,8 +208,6 @@
 {"label": "SKILL", "pattern": [{"LOWER": "boot2docker"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "bootstrap"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "bootswatch"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "bot"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "bourbon"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "bower"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "box"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "brackets"}]}
@@ -235,8 +225,6 @@
 {"label": "SKILL", "pattern": [{"LOWER": "brunch"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "brute-force"}, {"LOWER": "search"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "brute"}, {"LOWER": "force search"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "buddy"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "buffer"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "buffer"}, {"LOWER": "overflow"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "build,"}, {"LOWER": "test,"}, {"LOWER": "deploy"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "buildkite"}]}
@@ -247,12 +235,10 @@
 {"label": "SKILL", "pattern": [{"LOWER": "business"}, {"LOWER": "administration"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "business"}, {"LOWER": "dashboards"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "business"}, {"LOWER": "intelligence"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "business"}, {"LOWER": "intelligence"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "business"}, {"LOWER": "process"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "business"}, {"LOWER": "tools"}]}
 {"label": "SKILL", "pattern": [{"TEXT": "C++"}]}
 {"label": "SKILL", "pattern": [{"TEXT": "C"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "c3.js"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "c3"}, {"LOWER": "js"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "caddy"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "cakephp"}]}
@@ -335,13 +321,10 @@
 {"label": "SKILL", "pattern": [{"LOWER": "coding"}, {"LOWER": "(social"}, {"LOWER": "sciences)"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "coffeescript"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "cognitive"}, {"LOWER": "neuroscience"}, {"LOWER": "of"}, {"LOWER": "visual"}, {"LOWER": "object"}, {"LOWER": "recognition"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "collaboration"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "collision"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "color"}, {"LOWER": "vision"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "colorimetry"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "combinatorial"}, {"LOWER": "optimization"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "commenting"}, {"LOWER": "service"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "commerce"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "common"}, {"LOWER": "object"}, {"LOWER": "request"}, {"LOWER": "broker"}, {"LOWER": "architecture"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "communication"}, {"LOWER": "complexity"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "communication"}, {"LOWER": "in"}, {"LOWER": "small"}, {"LOWER": "groups"}]}
@@ -349,17 +332,12 @@
 {"label": "SKILL", "pattern": [{"LOWER": "communications"}, {"LOWER": "protocol"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "communications"}, {"LOWER": "sdk"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "communications"}, {"LOWER": "system"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "compass"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "compiler"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "complex"}, {"LOWER": "data"}, {"LOWER": "type"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "complex"}, {"LOWER": "system"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "component"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "component"}, {"LOWER": "analysis"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "compose"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "composer"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "composite"}, {"LOWER": "index"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "composite"}, {"LOWER": "number"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "comprehension"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "compressed"}, {"LOWER": "sensing"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "computability"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "computability"}, {"LOWER": "theory"}]}
@@ -389,12 +367,10 @@
 {"label": "SKILL", "pattern": [{"LOWER": "concept"}, {"LOWER": "learning"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "conceptual"}, {"LOWER": "model"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "concourse"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "concurrency"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "concurrency"}, {"LOWER": "control"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "concurrency"}, {"LOWER": "frameworks"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "concurrent"}, {"LOWER": "computing"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "conditional"}, {"LOWER": "random"}, {"LOWER": "field"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "conductor"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "confirmatory"}, {"LOWER": "factor"}, {"LOWER": "analysis"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "confluence"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "consistency"}, {"LOWER": "model"}]}
@@ -411,7 +387,6 @@
 {"label": "SKILL", "pattern": [{"LOWER": "contingency"}, {"LOWER": "table"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "continuous"}, {"LOWER": "deployment"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "continuous"}, {"LOWER": "integration"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "continuous"}, {"LOWER": "integration"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "continuum"}, {"LOWER": "(design"}, {"LOWER": "consultancy)"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "control"}, {"LOWER": "engineering"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "control"}, {"LOWER": "flow"}]}
@@ -425,8 +400,6 @@
 {"label": "SKILL", "pattern": [{"LOWER": "core"}, {"LOWER": "network"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "coreos"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "corner"}, {"LOWER": "detection"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "correctness"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "correlation"}, {"LOWER": "coefficient"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "cost"}, {"LOWER": "database"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "couchbase"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "couchdb"}]}
@@ -434,15 +407,12 @@
 {"label": "SKILL", "pattern": [{"TEXT": "C++"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "cranfield"}, {"LOWER": "experiments"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "crashlytics"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "crazy"}, {"LOWER": "egg"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "create"}, {"LOWER": "react"}, {"LOWER": "app"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "create"}, {"LOWER": "react"}, {"LOWER": "native"}, {"LOWER": "app"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "critical"}, {"LOWER": "mass"}, {"LOWER": "(software"}, {"LOWER": "engineering)"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "critical"}, {"LOWER": "path"}, {"LOWER": "method"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "critical"}, {"LOWER": "section"}]}
 {"label": "SKILL", "pattern": [{"TEXT": "CRM"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "cross-correlation"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "cross"}, {"LOWER": "correlation"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "cross-platform"}, {"LOWER": "desktop"}, {"LOWER": "development"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "cross"}, {"LOWER": "platform desktop development"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "cross-platform"}, {"LOWER": "mobile"}, {"LOWER": "development"}]}
@@ -461,7 +431,6 @@
 {"label": "SKILL", "pattern": [{"LOWER": "css"}, {"LOWER": "pre-processors"}, {"LOWER": "/"}, {"LOWER": "extensions"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "css pre-processors "}, {"LOWER": " extensions"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "css pre"}, {"LOWER": "processors / extensions"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "cucumber"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "curse"}, {"LOWER": "of"}, {"LOWER": "dimensionality"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "curve"}, {"LOWER": "fitting"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "custom"}, {"LOWER": "analytics"}]}
@@ -503,8 +472,6 @@
 {"label": "SKILL", "pattern": [{"LOWER": "data"}, {"LOWER": "science"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "data"}, {"LOWER": "science"}, {"LOWER": "notebooks"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "data"}, {"LOWER": "science"}, {"LOWER": "tools"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "data"}, {"LOWER": "sharing"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "data"}, {"LOWER": "stores"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "data"}, {"LOWER": "stream"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "data"}, {"LOWER": "stream"}, {"LOWER": "mining"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "data"}, {"LOWER": "structure"}]}
@@ -562,9 +529,7 @@
 {"label": "SKILL", "pattern": [{"LOWER": "digital"}, {"LOWER": "signature"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "digital"}, {"LOWER": "subscriber"}, {"LOWER": "line"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "digitalocean"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "dijkstra's"}, {"LOWER": "algorithm"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "dimensionality"}, {"LOWER": "reduction"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "directed"}, {"LOWER": "graph"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "dimensionality"}, {"LOWER": "reduction"}]}=
 {"label": "SKILL", "pattern": [{"LOWER": "discrete"}, {"LOWER": "cosine"}, {"LOWER": "transform"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "discrete"}, {"LOWER": "event"}, {"LOWER": "simulation"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "discrete"}, {"LOWER": "logarithm"}]}
@@ -584,7 +549,8 @@
 {"label": "SKILL", "pattern": [{"LOWER": "distributed"}, {"LOWER": "object"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "divide"}, {"LOWER": "and"}, {"LOWER": "conquer"}, {"LOWER": "algorithms"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "django"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "django"}, {"LOWER": "rest"}, {"LOWER": "framework"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "rest"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "framework"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "dns"}, {"LOWER": "management"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "dnsimple"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "docker"}]}
@@ -626,7 +592,6 @@
 {"label": "SKILL", "pattern": [{"LOWER": "dynamic"}, {"LOWER": "testing"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "dynamic"}, {"LOWER": "time"}, {"LOWER": "warping"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "echo"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "eclipse"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "ecommerce"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "econometric"}, {"LOWER": "model"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "economic"}, {"LOWER": "policy"}]}
@@ -645,10 +610,7 @@
 {"label": "SKILL", "pattern": [{"LOWER": "email"}, {"LOWER": "testing"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "embedded"}, {"LOWER": "system"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "ember"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "ember.js"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "ember"}, {"LOWER": "js"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "emoji"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "emotion"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "emotion"}, {"LOWER": "recognition"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "emulator"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "encoding"}, {"LOWER": "(memory)"}]}
@@ -663,7 +625,6 @@
 {"label": "SKILL", "pattern": [{"LOWER": "enterprise"}, {"LOWER": "system"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "entity\u2013relationship"}, {"LOWER": "model"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "environmental"}, {"LOWER": "engineering"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "enzyme"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "erasure"}, {"LOWER": "code"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "erlang"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "error"}, {"LOWER": "concealment"}]}
@@ -725,8 +686,6 @@
 {"label": "SKILL", "pattern": [{"LOWER": "finagle"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "finance"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "financial"}, {"LOWER": "system"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "findability"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "fingerprint"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "fingerprint"}, {"LOWER": "recognition"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "finite-state"}, {"LOWER": "machine"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "finite"}, {"LOWER": "state machine"}]}
@@ -749,7 +708,6 @@
 {"label": "SKILL", "pattern": [{"LOWER": "flux"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "flyway"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "folksonomy"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "font"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "forensic"}, {"LOWER": "engineering"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "formal"}, {"LOWER": "concept"}, {"LOWER": "analysis"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "formal"}, {"LOWER": "language"}]}
@@ -771,7 +729,6 @@
 {"label": "SKILL", "pattern": [{"LOWER": "front"}, {"LOWER": "end frameworks"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "front"}, {"LOWER": "end"}, {"LOWER": "package"}, {"LOWER": "manager"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "front"}, {"LOWER": "end"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "fullstory"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "functional"}, {"LOWER": "dependency"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "functional"}, {"LOWER": "programming"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "functional"}, {"LOWER": "testing"}]}
@@ -784,8 +741,6 @@
 {"label": "SKILL", "pattern": [{"LOWER": "garbage"}, {"LOWER": "collection"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "gatling"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "gatsby"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "gauges"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "gaussian"}, {"LOWER": "noise"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "gaussian"}, {"LOWER": "process"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "gearman"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "geckoboard"}]}
@@ -865,7 +820,6 @@
 {"label": "SKILL", "pattern": [{"TEXT": "GSM"}]}
 {"label": "SKILL", "pattern": [{"TEXT": "GTP'"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "gulp"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "gulp"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "gunicorn"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "guzzle"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "hadoop"}]}
@@ -894,7 +848,6 @@
 {"label": "SKILL", "pattern": [{"LOWER": "hetzner"}, {"LOWER": "online"}, {"LOWER": "ag"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "hexo"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "hhvm"}, {"LOWER": "(hiphop"}, {"LOWER": "virtual"}, {"LOWER": "machine)"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "hibernate"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "hidden"}, {"LOWER": "markov"}, {"LOWER": "model"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "hierarchical"}, {"LOWER": "database"}, {"LOWER": "model"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "high"}, {"LOWER": "availability"}]}
@@ -979,7 +932,6 @@
 {"label": "SKILL", "pattern": [{"LOWER": "infrastructure"}, {"LOWER": "build"}, {"LOWER": "tools"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "inkwell"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "input"}, {"LOWER": "device"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "insomnia"}, {"LOWER": "rest"}, {"LOWER": "client"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "inspec"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "instrumental"}, {"LOWER": "variable"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "integer"}, {"LOWER": "programming"}]}
@@ -1045,9 +997,6 @@
 {"label": "SKILL", "pattern": [{"LOWER": "jupyter"}, {"LOWER": "notebook"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "k-d"}, {"LOWER": "tree"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "k"}, {"LOWER": "d tree"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "k-nearest"}, {"LOWER": "neighbors"}, {"LOWER": "algorithm"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "k"}, {"LOWER": "nearest neighbors algorithm"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "kafka"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "kalman"}, {"LOWER": "filter"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "kanban"}, {"LOWER": "for"}, {"LOWER": "github"}, {"LOWER": "issues"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "kanban"}, {"LOWER": "tool"}]}
@@ -1155,7 +1104,6 @@
 {"label": "SKILL", "pattern": [{"LOWER": "logistic"}, {"LOWER": "regression"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "logrocket"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "logstash"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "look-ahead"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "look"}, {"LOWER": "ahead"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "lookup"}, {"LOWER": "table"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "lottie"}]}
@@ -1240,10 +1188,8 @@
 {"label": "SKILL", "pattern": [{"LOWER": "microsoft"}, {"LOWER": "bot"}, {"LOWER": "framework"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "microsoft"}, {"LOWER": "iis"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "microsoft"}, {"LOWER": "sql"}, {"LOWER": "server"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "middleman"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "middleware"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "mina"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "minecraft"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "minification"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "mining"}, {"LOWER": "engineering"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "minio"}]}
@@ -1552,7 +1498,6 @@
 {"label": "SKILL", "pattern": [{"LOWER": "pug"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "pulp"}, {"LOWER": "and"}, {"LOWER": "paper"}, {"LOWER": "industry"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "pulse"}, {"LOWER": "(signal"}, {"LOWER": "processing)"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "puma"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "puppet"}, {"LOWER": "labs"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "puppeteer"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "push"}, {"LOWER": "monkey"}]}
@@ -1705,8 +1650,6 @@
 {"label": "SKILL", "pattern": [{"LOWER": "scalable"}, {"LOWER": "vector"}, {"LOWER": "graphics"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "scale"}, {"LOWER": "space"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "scaleway"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "scanner"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "schedule"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "scheduling"}, {"LOWER": "(computing)"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "scientometrics"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "scikit-learn"}]}
@@ -1724,17 +1667,14 @@
 {"label": "SKILL", "pattern": [{"LOWER": "search"}, {"LOWER": "engines"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "search/retrieve"}, {"LOWER": "via"}, {"LOWER": "url"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "search"}, {"LOWER": "retrieve via url"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "seasonality"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "secret"}, {"LOWER": "sharing"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "secrets"}, {"LOWER": "management"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "secure"}, {"LOWER": "communication"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "secure"}, {"LOWER": "multi-party"}, {"LOWER": "computation"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "secure multi"}, {"LOWER": "party computation"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "security"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "seesaw"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "segment"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "segmentation"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "selenium"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "self-hosted"}, {"LOWER": "blogging"}, {"LOWER": "/"}, {"LOWER": "cms"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "self-hosted blogging "}, {"LOWER": " cms"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "self"}, {"LOWER": "hosted blogging / cms"}]}
@@ -1777,14 +1717,12 @@
 {"label": "SKILL", "pattern": [{"LOWER": "shape"}, {"LOWER": "analysis"}, {"LOWER": "(digital"}, {"LOWER": "geometry)"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "shared"}, {"LOWER": "memory"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "shared"}, {"LOWER": "resource"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "shell"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "shields.io"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "shields"}, {"LOWER": "io"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "shift"}, {"LOWER": "register"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "shippable"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "shopify"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "shortest"}, {"LOWER": "path"}, {"LOWER": "problem"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "shrinkage"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "sidekiq"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "signal"}, {"LOWER": "processing"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "signal"}, {"LOWER": "strength"}]}
@@ -1796,7 +1734,6 @@
 {"label": "SKILL", "pattern": [{"LOWER": "skeleton"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "skeleton"}, {"LOWER": "(computer"}, {"LOWER": "programming)"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "sketch"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "skype"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "slack"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "sliding"}, {"LOWER": "window"}, {"LOWER": "protocol"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "slim"}]}
@@ -1971,8 +1908,6 @@
 {"label": "SKILL", "pattern": [{"LOWER": "top"}, {"LOWER": "down and bottom"}, {"LOWER": "up design"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "topic"}, {"LOWER": "maps"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "topic"}, {"LOWER": "model"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "tornado"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "tower"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "tracking"}, {"LOWER": "system"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "traefik"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "traffic"}, {"LOWER": "engineering"}]}
@@ -1995,7 +1930,6 @@
 {"label": "SKILL", "pattern": [{"LOWER": "triangulation"}, {"LOWER": "(social"}, {"LOWER": "science)"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "turing"}, {"LOWER": "machine"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "twilio"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "twitter"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "type"}, {"LOWER": "inference"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "type"}, {"LOWER": "theory"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "typeform"}]}
