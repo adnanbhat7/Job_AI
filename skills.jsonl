@@ -529,7 +529,7 @@
 {"label": "SKILL", "pattern": [{"LOWER": "digital"}, {"LOWER": "signature"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "digital"}, {"LOWER": "subscriber"}, {"LOWER": "line"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "digitalocean"}]}
-{"label": "SKILL", "pattern": [{"LOWER": "dimensionality"}, {"LOWER": "reduction"}]}=
+{"label": "SKILL", "pattern": [{"LOWER": "dimensionality"}, {"LOWER": "reduction"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "discrete"}, {"LOWER": "cosine"}, {"LOWER": "transform"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "discrete"}, {"LOWER": "event"}, {"LOWER": "simulation"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "discrete"}, {"LOWER": "logarithm"}]}
