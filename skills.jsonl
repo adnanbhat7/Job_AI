@@ -116,6 +116,7 @@
 {"label": "SKILL", "pattern": [{"LOWER": "arangodb"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "arch"}, {"LOWER": "linux"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "architectural"}, {"LOWER": "engineering"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "architect"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "arduino"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "ai"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "artificial"}, {"LOWER": "intelligence"}]}
@@ -2156,6 +2157,7 @@
 {"label": "SKILL", "pattern": [{"LOWER": "tablets"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "technical"}, {"LOWER": "skills"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "troubleshooting"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "data"}, {"LOWER": "scientist"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "ux"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "vmware"}]}
 {"label": "SKILL", "pattern": [{"LOWER": "web"}, {"LOWER": "services"}]}
