@@ -198,7 +198,6 @@ python-json-logger==2.0.7
 python-multipart==0.0.9
 python-slugify==8.0.4
 pytz==2024.1
-pywin32==306
 pywinpty==2.0.13
 pyxnat==1.6.2
 PyYAML==6.0.1
@@ -256,7 +255,7 @@ threadpoolctl==3.4.0
 tifffile==2024.12.12
 tinycss2==1.2.1
 toml==0.10.2
-torch==2.5.1+cu118
+torch==2.5.1
 torchaudio==2.5.1+cu118
 torchvision==0.20.1+cu118
 tornado==6.4
