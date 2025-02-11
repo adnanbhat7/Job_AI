@@ -1,4 +1,4 @@
-# Resume-Job Description Matching System
+# JOB AI
 
 This project is a Resume-Job Description Matching System built using Streamlit. It leverages OCR (Optical Character Recognition) to extract text from resumes and job descriptions, processes the text using NLP (Natural Language Processing), and matches them using a trained machine learning model. The system helps recruiters or hiring managers quickly evaluate how well a resume fits a job description.
 
