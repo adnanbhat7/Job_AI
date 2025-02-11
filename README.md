@@ -10,9 +10,7 @@ This project is a Resume-Job Description Matching System built using Streamlit. 
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [How It Works](#how-it-works)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Acknowledgements](#acknowledgements)
+6. [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -94,12 +92,6 @@ To run this project locally, follow these steps:
 
 6. **Results**:
    - The app displays the predicted fit, common skills, and missing skills.
-
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 ---
 
 ## Acknowledgements
